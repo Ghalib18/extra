@@ -19,4 +19,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ghalib18/extra/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## String
+|  |
+| ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ghalib18/extra/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ghalib18/extra/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 <!---LeetCode Topics End-->

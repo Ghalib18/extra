@@ -71,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Ghalib18/extra/tree/master/3719-longest-balanced-subarray-i) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0868-binary-gap](https://github.com/Ghalib18/extra/tree/master/0868-binary-gap) |
 <!---LeetCode Topics End-->

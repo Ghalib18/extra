@@ -31,11 +31,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0396-rotate-function](https://github.com/Ghalib18/extra/tree/master/0396-rotate-function) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ghalib18/extra/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 ## Array
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Ghalib18/extra/tree/master/0349-intersection-of-two-arrays) |
+| [0396-rotate-function](https://github.com/Ghalib18/extra/tree/master/0396-rotate-function) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Ghalib18/extra/tree/master/1266-minimum-time-visiting-all-points) |
 | [3453-separate-squares-i](https://github.com/Ghalib18/extra/tree/master/3453-separate-squares-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ghalib18/extra/tree/master/3719-longest-balanced-subarray-i) |
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/Ghalib18/extra/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Ghalib18/extra/tree/master/0009-palindrome-number) |
+| [0396-rotate-function](https://github.com/Ghalib18/extra/tree/master/0396-rotate-function) |
 | [0507-perfect-number](https://github.com/Ghalib18/extra/tree/master/0507-perfect-number) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Ghalib18/extra/tree/master/1266-minimum-time-visiting-all-points) |
 ## Geometry

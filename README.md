@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0396-rotate-function](https://github.com/Ghalib18/extra/tree/master/0396-rotate-function) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ghalib18/extra/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0788-rotated-digits](https://github.com/Ghalib18/extra/tree/master/0788-rotated-digits) |
 ## Array
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Ghalib18/extra/tree/master/0009-palindrome-number) |
 | [0396-rotate-function](https://github.com/Ghalib18/extra/tree/master/0396-rotate-function) |
 | [0507-perfect-number](https://github.com/Ghalib18/extra/tree/master/0507-perfect-number) |
+| [0788-rotated-digits](https://github.com/Ghalib18/extra/tree/master/0788-rotated-digits) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Ghalib18/extra/tree/master/1266-minimum-time-visiting-all-points) |
 ## Geometry
 |  |

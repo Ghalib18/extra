@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/Ghalib18/extra/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ghalib18/extra/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Ghalib18/extra/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ghalib18/extra/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Ghalib18/extra/tree/master/2553-separate-the-digits-in-an-array) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ghalib18/extra/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Ghalib18/extra/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3453-separate-squares-i](https://github.com/Ghalib18/extra/tree/master/3453-separate-squares-i) |
 | [3660-jump-game-ix](https://github.com/Ghalib18/extra/tree/master/3660-jump-game-ix) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ghalib18/extra/tree/master/3719-longest-balanced-subarray-i) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1861-rotating-the-box](https://github.com/Ghalib18/extra/tree/master/1861-rotating-the-box) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ghalib18/extra/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Ghalib18/extra/tree/master/3286-find-a-safe-walk-through-a-grid) |
 ## Union-Find
 |  |
 | ------- |
@@ -149,4 +152,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ghalib18/extra/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Ghalib18/extra/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Graph Theory
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Ghalib18/extra/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Shortest Path
+|  |
+| ------- |
+| [3286-find-a-safe-walk-through-a-grid](https://github.com/Ghalib18/extra/tree/master/3286-find-a-safe-walk-through-a-grid) |
 <!---LeetCode Topics End-->

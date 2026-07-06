@@ -1,23 +1,34 @@
 class Solution {
 public:
-    int removeCoveredIntervals(vector<vector<int>>& arr) {
-        int n=arr.size();
-        sort(arr.begin(),arr.end());
-        vector<bool>vis(n,false);
+    int removeCoveredIntervals(vector<vector<int>>& v) {
+        int n=v.size();
+      sort(v.begin(), v.end(), [](const auto& a, const auto& b) {
+            if (a[0] != b[0])
+                return a[0] < b[0];   // first: ascending
+
+            return a[1] > b[1];     // second: descending
+          });
         int cnt=0;
-        for(int i=0;i<n;i++){
-            int c=arr[i][0];
-            int d=arr[i][1];
-            for(int j=0;j<n;j++){
-                if(i==j) continue;
-                int a=arr[j][0];
-                int b=arr[j][1];
-                if(c<=a&&b<=d&&!vis[j]){
-                    cnt++;
-                    vis[j]=true;
-                }
-            }
+        int i=0;
+        int j=1;
+
+        while(j<n){
+            int a=v[j][0];
+            int b=v[j][1];
+            int c=v[i][0];
+            int d=v[i][1];
+             if(c<=a&&b<=d){
+                cnt++;
+                j++;
+             }
+             else{
+                i=j;
+                j++;
+             }
+
         }
+
+        
         return n-cnt;
     }
 };

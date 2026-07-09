@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ghalib18/extra/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ghalib18/extra/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3453-separate-squares-i](https://github.com/Ghalib18/extra/tree/master/3453-separate-squares-i) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Ghalib18/extra/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3660-jump-game-ix](https://github.com/Ghalib18/extra/tree/master/3660-jump-game-ix) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ghalib18/extra/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
@@ -78,11 +79,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Ghalib18/extra/tree/master/0349-intersection-of-two-arrays) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ghalib18/extra/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3453-separate-squares-i](https://github.com/Ghalib18/extra/tree/master/3453-separate-squares-i) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Ghalib18/extra/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Ghalib18/extra/tree/master/0349-intersection-of-two-arrays) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ghalib18/extra/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Ghalib18/extra/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Ghalib18/extra/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ghalib18/extra/tree/master/3719-longest-balanced-subarray-i) |
 ## Counting
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ghalib18/extra/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ghalib18/extra/tree/master/2812-find-the-safest-path-in-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Ghalib18/extra/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -167,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Ghalib18/extra/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ghalib18/extra/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3532-path-existence-queries-in-a-graph-i](https://github.com/Ghalib18/extra/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Shortest Path
 |  |
 | ------- |

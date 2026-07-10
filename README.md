@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/Ghalib18/extra/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ghalib18/extra/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0796-rotate-string](https://github.com/Ghalib18/extra/tree/master/0796-rotate-string) |
+| [1189-maximum-number-of-balloons](https://github.com/Ghalib18/extra/tree/master/1189-maximum-number-of-balloons) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ghalib18/extra/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ghalib18/extra/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ghalib18/extra/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Ghalib18/extra/tree/master/0349-intersection-of-two-arrays) |
+| [1189-maximum-number-of-balloons](https://github.com/Ghalib18/extra/tree/master/1189-maximum-number-of-balloons) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ghalib18/extra/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Ghalib18/extra/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Ghalib18/extra/tree/master/3713-longest-balanced-substring-i) |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1189-maximum-number-of-balloons](https://github.com/Ghalib18/extra/tree/master/1189-maximum-number-of-balloons) |
 | [2833-furthest-point-from-origin](https://github.com/Ghalib18/extra/tree/master/2833-furthest-point-from-origin) |
 | [3713-longest-balanced-substring-i](https://github.com/Ghalib18/extra/tree/master/3713-longest-balanced-substring-i) |
 ## Enumeration

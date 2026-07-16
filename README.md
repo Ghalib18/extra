@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Ghalib18/extra/tree/master/0507-perfect-number) |
 | [0788-rotated-digits](https://github.com/Ghalib18/extra/tree/master/0788-rotated-digits) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Ghalib18/extra/tree/master/1266-minimum-time-visiting-all-points) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Ghalib18/extra/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Ghalib18/extra/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ghalib18/extra/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Geometry
@@ -179,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ghalib18/extra/tree/master/3286-find-a-safe-walk-through-a-grid) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/Ghalib18/extra/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->

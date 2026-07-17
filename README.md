@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1291-sequential-digits](https://github.com/Ghalib18/extra/tree/master/1291-sequential-digits) |
 | [3713-longest-balanced-substring-i](https://github.com/Ghalib18/extra/tree/master/3713-longest-balanced-substring-i) |
 ## Divide and Conquer
 |  |

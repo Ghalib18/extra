@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Ghalib18/extra/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/Ghalib18/extra/tree/master/0396-rotate-function) |
+| [1260-shift-2d-grid](https://github.com/Ghalib18/extra/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Ghalib18/extra/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/Ghalib18/extra/tree/master/1288-remove-covered-intervals) |
 | [1861-rotating-the-box](https://github.com/Ghalib18/extra/tree/master/1861-rotating-the-box) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Ghalib18/extra/tree/master/1260-shift-2d-grid) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ghalib18/extra/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Ghalib18/extra/tree/master/2553-separate-the-digits-in-an-array) |
 ## Sorting
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Ghalib18/extra/tree/master/1260-shift-2d-grid) |
 | [1861-rotating-the-box](https://github.com/Ghalib18/extra/tree/master/1861-rotating-the-box) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Ghalib18/extra/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Ghalib18/extra/tree/master/3286-find-a-safe-walk-through-a-grid) |

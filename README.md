@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ghalib18/extra/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Ghalib18/extra/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ghalib18/extra/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Ghalib18/extra/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ghalib18/extra/tree/master/0349-intersection-of-two-arrays) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/Ghalib18/extra/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/Ghalib18/extra/tree/master/0061-rotate-list) |
+| [0075-sort-colors](https://github.com/Ghalib18/extra/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ghalib18/extra/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Ghalib18/extra/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ghalib18/extra/tree/master/0349-intersection-of-two-arrays) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Ghalib18/extra/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Ghalib18/extra/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/Ghalib18/extra/tree/master/0349-intersection-of-two-arrays) |
 | [1288-remove-covered-intervals](https://github.com/Ghalib18/extra/tree/master/1288-remove-covered-intervals) |
 ## String Matching

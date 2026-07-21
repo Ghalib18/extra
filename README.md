@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Ghalib18/extra/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ghalib18/extra/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/Ghalib18/extra/tree/master/0396-rotate-function) |
 | [1260-shift-2d-grid](https://github.com/Ghalib18/extra/tree/master/1260-shift-2d-grid) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/Ghalib18/extra/tree/master/0061-rotate-list) |
+| [0283-move-zeroes](https://github.com/Ghalib18/extra/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ghalib18/extra/tree/master/0349-intersection-of-two-arrays) |
 | [0696-count-binary-substrings](https://github.com/Ghalib18/extra/tree/master/0696-count-binary-substrings) |
 | [1861-rotating-the-box](https://github.com/Ghalib18/extra/tree/master/1861-rotating-the-box) |

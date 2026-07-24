@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Ghalib18/extra/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/Ghalib18/extra/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Ghalib18/extra/tree/master/0075-sort-colors) |
+| [0136-single-number](https://github.com/Ghalib18/extra/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ghalib18/extra/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Ghalib18/extra/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ghalib18/extra/tree/master/0349-intersection-of-two-arrays) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Ghalib18/extra/tree/master/0136-single-number) |
 | [0868-binary-gap](https://github.com/Ghalib18/extra/tree/master/0868-binary-gap) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Ghalib18/extra/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ghalib18/extra/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |

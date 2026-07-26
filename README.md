@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Ghalib18/extra/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ghalib18/extra/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/Ghalib18/extra/tree/master/0396-rotate-function) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ghalib18/extra/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/Ghalib18/extra/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Ghalib18/extra/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/Ghalib18/extra/tree/master/1288-remove-covered-intervals) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Ghalib18/extra/tree/master/0066-plus-one) |
 | [0396-rotate-function](https://github.com/Ghalib18/extra/tree/master/0396-rotate-function) |
 | [0507-perfect-number](https://github.com/Ghalib18/extra/tree/master/0507-perfect-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ghalib18/extra/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/Ghalib18/extra/tree/master/0788-rotated-digits) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Ghalib18/extra/tree/master/1266-minimum-time-visiting-all-points) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ghalib18/extra/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/Ghalib18/extra/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/Ghalib18/extra/tree/master/0075-sort-colors) |
 | [0349-intersection-of-two-arrays](https://github.com/Ghalib18/extra/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Ghalib18/extra/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Ghalib18/extra/tree/master/1288-remove-covered-intervals) |
 | [3536-maximum-product-of-two-digits](https://github.com/Ghalib18/extra/tree/master/3536-maximum-product-of-two-digits) |
 ## String Matching

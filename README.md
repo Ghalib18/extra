@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Ghalib18/extra/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Ghalib18/extra/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/Ghalib18/extra/tree/master/1288-remove-covered-intervals) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Ghalib18/extra/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Ghalib18/extra/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1861-rotating-the-box](https://github.com/Ghalib18/extra/tree/master/1861-rotating-the-box) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Ghalib18/extra/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/Ghalib18/extra/tree/master/0349-intersection-of-two-arrays) |
 | [1189-maximum-number-of-balloons](https://github.com/Ghalib18/extra/tree/master/1189-maximum-number-of-balloons) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Ghalib18/extra/tree/master/1394-find-lucky-integer-in-an-array) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Ghalib18/extra/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2540-minimum-common-value](https://github.com/Ghalib18/extra/tree/master/2540-minimum-common-value) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ghalib18/extra/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/Ghalib18/extra/tree/master/1189-maximum-number-of-balloons) |
+| [1394-find-lucky-integer-in-an-array](https://github.com/Ghalib18/extra/tree/master/1394-find-lucky-integer-in-an-array) |
 | [2833-furthest-point-from-origin](https://github.com/Ghalib18/extra/tree/master/2833-furthest-point-from-origin) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Ghalib18/extra/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3713-longest-balanced-substring-i](https://github.com/Ghalib18/extra/tree/master/3713-longest-balanced-substring-i) |

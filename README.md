@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ghalib18/extra/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Ghalib18/extra/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ghalib18/extra/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0238-product-of-array-except-self](https://github.com/Ghalib18/extra/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Ghalib18/extra/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Ghalib18/extra/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/Ghalib18/extra/tree/master/0396-rotate-function) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Ghalib18/extra/tree/master/0238-product-of-array-except-self) |
 | [3719-longest-balanced-subarray-i](https://github.com/Ghalib18/extra/tree/master/3719-longest-balanced-subarray-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Ghalib18/extra/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Bit Manipulation

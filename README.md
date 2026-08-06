@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Ghalib18/extra/tree/master/0014-longest-common-prefix) |
 | [0696-count-binary-substrings](https://github.com/Ghalib18/extra/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ghalib18/extra/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0796-rotate-string](https://github.com/Ghalib18/extra/tree/master/0796-rotate-string) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ghalib18/extra/tree/master/0011-container-with-most-water) |
+| [0014-longest-common-prefix](https://github.com/Ghalib18/extra/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Ghalib18/extra/tree/master/0015-3sum) |
 | [0066-plus-one](https://github.com/Ghalib18/extra/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Ghalib18/extra/tree/master/0075-sort-colors) |
@@ -257,4 +259,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Ghalib18/extra/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Ghalib18/extra/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->

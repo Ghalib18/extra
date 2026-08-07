@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ghalib18/extra/tree/master/0042-trapping-rain-water) |
 | [0396-rotate-function](https://github.com/Ghalib18/extra/tree/master/0396-rotate-function) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ghalib18/extra/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/Ghalib18/extra/tree/master/0788-rotated-digits) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Ghalib18/extra/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/Ghalib18/extra/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/Ghalib18/extra/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Ghalib18/extra/tree/master/0042-trapping-rain-water) |
 | [0066-plus-one](https://github.com/Ghalib18/extra/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/Ghalib18/extra/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Ghalib18/extra/tree/master/0136-single-number) |
@@ -167,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ghalib18/extra/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Ghalib18/extra/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/Ghalib18/extra/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/Ghalib18/extra/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/Ghalib18/extra/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Ghalib18/extra/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -254,6 +257,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/Ghalib18/extra/tree/master/0042-trapping-rain-water) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Ghalib18/extra/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Counting Sort
 |  |
@@ -263,4 +267,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Ghalib18/extra/tree/master/0014-longest-common-prefix) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/Ghalib18/extra/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->

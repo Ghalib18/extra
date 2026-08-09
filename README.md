@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0396-rotate-function](https://github.com/Ghalib18/extra/tree/master/0396-rotate-function) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/Ghalib18/extra/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0788-rotated-digits](https://github.com/Ghalib18/extra/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/Ghalib18/extra/tree/master/0877-stone-game) |
 | [3660-jump-game-ix](https://github.com/Ghalib18/extra/tree/master/3660-jump-game-ix) |
 ## Array
 |  |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Ghalib18/extra/tree/master/0349-intersection-of-two-arrays) |
 | [0396-rotate-function](https://github.com/Ghalib18/extra/tree/master/0396-rotate-function) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ghalib18/extra/tree/master/0628-maximum-product-of-three-numbers) |
+| [0877-stone-game](https://github.com/Ghalib18/extra/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Ghalib18/extra/tree/master/1260-shift-2d-grid) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Ghalib18/extra/tree/master/1266-minimum-time-visiting-all-points) |
 | [1288-remove-covered-intervals](https://github.com/Ghalib18/extra/tree/master/1288-remove-covered-intervals) |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Ghalib18/extra/tree/master/0507-perfect-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Ghalib18/extra/tree/master/0628-maximum-product-of-three-numbers) |
 | [0788-rotated-digits](https://github.com/Ghalib18/extra/tree/master/0788-rotated-digits) |
+| [0877-stone-game](https://github.com/Ghalib18/extra/tree/master/0877-stone-game) |
 | [1266-minimum-time-visiting-all-points](https://github.com/Ghalib18/extra/tree/master/1266-minimum-time-visiting-all-points) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Ghalib18/extra/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Ghalib18/extra/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -271,4 +274,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Ghalib18/extra/tree/master/0042-trapping-rain-water) |
+## Minimax
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Ghalib18/extra/tree/master/0877-stone-game) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Ghalib18/extra/tree/master/0877-stone-game) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Ghalib18/extra/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->

@@ -1,37 +1,29 @@
 class Solution {
 public:
-    long long countIntersectingIntervals(vector<vector<int>>& intervals) {
+    static bool comparator(pair<int,int> a, pair<int,int>  b){
+        if(a.first!=b.first)return a.first<b.first;
+         return a.second>b.second;
+    }
+    int countIntersectingIntervals(vector<vector<int>>& intervals) {
+        vector<pair<int,int>> arr;
 
-        vector<pair<int, int>> events;
-
-        for (auto &x : intervals) {
-            events.push_back({x[0], 1});   // start
-            events.push_back({x[1], -1});  // end
+        for(auto x: intervals){
+            int start=x[0];
+            int end=x[1];
+            arr.push_back({start,1});
+            arr.push_back({end,-1});
         }
-
-        sort(events.begin(), events.end(), [](auto &a, auto &b) {
-            if (a.first != b.first)
-                return a.first < b.first;
-
-            return a.second > b.second; // start before end
-        });
-
-        long long active = 0;
-        long long ans = 0;
-
-        for (auto [pos, type] : events) {
-
-            if (type == 1) {
-                // Current interval intersects
-                // with all currently active intervals
-                ans += active;
+        sort(arr.begin(),arr.end(),comparator);
+        int active=0;
+        int ans=0;
+        for(auto [val,del]:arr){
+            if(del==1){
+                ans+=active;
                 active++;
-            } 
-            else {
-                active--;
             }
-        }
+            else active--;
 
+        }
         return ans;
     }
 };
